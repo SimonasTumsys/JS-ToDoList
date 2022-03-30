@@ -78,6 +78,10 @@ li {
     color: rgb(149, 149, 248);
 }
 
+li:nth-of-type(2n){
+    background-color: rgb(234, 234, 255)
+}
+
 
 .checkbox {
     margin: 0 1rem;
